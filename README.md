@@ -5,8 +5,8 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+    <h4 align="center">"<em>No hay nada que la imaginacion y programar no puedanr</em>"
+      <span align="center">Celeste Herrera</span>
     </h4>
 </span>
 </h1>
