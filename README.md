@@ -19,9 +19,10 @@
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
     <li>:mortar_board: Estudie en la facultad de Ingenieria <strong>UNAM</strong></li>
-    <li>🔭 Actualmente estoy estudiando <strong>React</strong></li>
-    <li>🌱 Soy buena con el <strong>Hardware, ioT, fpga , arduino</strong></li>
-    <li>📫 Puedes encontrarme <strong>dayanceles@gmail.com</strong></li>
+    <li>:mag_right: Actualmente estoy estudiando <strong>React</strong></li>
+    <li>:alarm_clock: Soy buena con el <strong>Hardware, ioT, fpga , arduino</strong></li>
+    <li>:unlock: Puedo asegurar tu <strong>informacion</strong></li>
+    <li>:globe_with_meridians: Puedes encontrarme <strong>dayanceles@gmail.com</strong></li>
   </ul>
 <br/>
 
