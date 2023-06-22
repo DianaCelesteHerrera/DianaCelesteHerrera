@@ -2,7 +2,6 @@
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1
-  <div id="header" align="center">
   <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" width="100"/>
 </div>
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
