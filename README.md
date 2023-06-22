@@ -16,7 +16,7 @@
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
-    <li>🔭 Actualmente estoy estudiando react  <strong>CloudPay</strong></li>
+    <li>🔭 Actualmente estoy estudiando <strong>Ract</strong></li>
     <li>🌱 I’m currently learning <strong>Spring,Electron,GraphQL,...</strong></li>
     <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
   </ul>
