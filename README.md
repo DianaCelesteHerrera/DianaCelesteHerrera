@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1
 <hr>
   <p align="center">
-  <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" height="200"/>
+  <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" height="300"/>
 </p>
 <br>
   <span>
