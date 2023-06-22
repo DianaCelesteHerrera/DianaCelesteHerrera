@@ -16,7 +16,7 @@
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
-    <li>🔭 Actualmente estoy estudiando <strong>Ract</strong></li>
+    <li>🔭 Actualmente estoy estudiando <strong>React</strong></li>
     <li>🌱 Soy buena con el <strong>Hardware, ioT, Fpga, arduino</strong></li>
     <li>📫 Puedes encontrarme <strong>dayanceles@gmail.com</strong></li>
   </ul>
