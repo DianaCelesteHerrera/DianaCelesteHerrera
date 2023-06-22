@@ -5,7 +5,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>No hay nada que la imaginacion y programar no puedanr</em>"
+    <h4 align="center">"<em>No hay nada que la imaginacion y programar no puedan</em>"
       <span align="center">Celeste Herrera</span>
     </h4>
 </span>
