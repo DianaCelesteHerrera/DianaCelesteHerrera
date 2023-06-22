@@ -19,7 +19,7 @@
     <li>🌱 Soy buena con el <strong>Hardware, ioT, fpga , arduino</strong></li>
     <li>📫 Puedes encontrarme <strong>dayanceles@gmail.com</strong></li>
   </ul>
-
+<br/>
 
 ## Lenguajes de programacion ##
 <br/>
