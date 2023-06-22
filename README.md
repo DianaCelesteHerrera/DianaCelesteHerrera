@@ -18,7 +18,7 @@
   <ul>
     <li>🔭 Actualmente estoy estudiando <strong>Ract</strong></li>
     <li>🌱 Soy buena con el <strong>Hardware, ioT</strong></li>
-    <li>📫 How to reach me <strong>josuerojasvega@gmail.com</strong></li>
+    <li>📫 Puedes encontrarme <strong>dayanceles@gmail.com</strong></li>
   </ul>
 
 
