@@ -2,7 +2,10 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1
 <hr>
-<span align="center">
+  <p align="center">
+  <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" height="200"/>
+</p>
+<br>
   <span>
     <h4 align="center">"<em>Software developer! Creadora de contenido</em>"
     </h4>
