@@ -2,7 +2,6 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1
 <hr>
-<!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
     <h4 align="center">"<em>Software developer! Creadora de contenido</em>"
@@ -11,7 +10,7 @@
 </h1>
 <br/>
 <br/>
-<!-- ABOUT YOU -->
+
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
