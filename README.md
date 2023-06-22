@@ -6,7 +6,7 @@
     </h4>
 <hr>
   <p align="center">
-  <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" height="500"/>
+  <img src="https://i.ibb.co/N2jxmhB/Beige-Grey-Vlogger-You-Tube-Banner.png" height="400"/>
 </p>
 
 <br>
