@@ -35,6 +35,10 @@
 <code><img height="40" width="40" 
 src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA=w240-h480-rw"></code>
 <br/>
+## Actualmente estoy en curso... ##
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<br/>
 
 ## Otras herramientas ##
 <br/>
