@@ -27,7 +27,6 @@
 <br/>
 
 ## Lenguajes de programacion ##
-<br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -35,16 +34,18 @@
 <code><img height="40" width="40" 
 src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA=w240-h480-rw"></code>
 <br/>
-## Actualmente estoy en curso... ##
-<br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<br/>
+
+## Actualmente estoy en cursos... ##
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="40" width="40" src="https://www.jovenesprogramadores.cl/wp-content/uploads/2020/07/react.png"></code>
+<code><img height="40" width="40" src="https://assets.zabbix.com/img/brands/nodejs.svg"></code>
+
 
 ## Otras herramientas ##
-<br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://www.pngkit.com/png/full/282-2828401_auto-cad-android-app-autodesk-logo-png.png"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/flexisign-pro-6-logo-black-and-white.png"></code>
+<br/>
 
 <p align="center">
   <table align="center">
