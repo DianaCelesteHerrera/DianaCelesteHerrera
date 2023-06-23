@@ -41,3 +41,18 @@ src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0v
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://www.pngkit.com/png/full/282-2828401_auto-cad-android-app-autodesk-logo-png.png"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/flexisign-pro-6-logo-black-and-white.png"></code>
+
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DianaCelesteHerrera&theme=default&show_icons=true&count_private=true&locale=es" />
+        <br></br>
+        <img align="center" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DianaCelesteHerrera&theme=default&hide_border=false&locale=es" /> 
+      </td>
+<td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DianaCelesteHerrera&theme=default&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es" />
+      </td>
+    </tr>
+  </table>
+</p>
